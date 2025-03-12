@@ -1,0 +1,14 @@
+
+
+# files
+*.done
+*.csv
+*.parquet
+*.txt
+
+
+# folders
+datalake/data/*
+
+
+

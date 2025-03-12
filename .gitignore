@@ -5,9 +5,12 @@
 *.csv
 *.parquet
 *.txt
-
+*.png
+logins_*
+*202*
 
 # folders
+loginCount/scripts/data_logins/*
 datalake/data/*
 
 

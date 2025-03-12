@@ -1,0 +1,24 @@
+sacctmgr modify user where name=melbourne  set DefaultAccount=melbourne
+sacctmgr modify user where name=moscato  set DefaultAccount=moscato
+sacctmgr modify user where name=pope  set DefaultAccount=pope
+sacctmgr modify user where name=poege  set DefaultAccount=poege
+sacctmgr modify user where name=gauthier  set DefaultAccount=gauthier
+sacctmgr modify user where name=3144860  set DefaultAccount=3144860
+sacctmgr modify user where name=3173139  set DefaultAccount=3173139
+sacctmgr modify user where name=polak  set DefaultAccount=polak
+sacctmgr modify user where name=goerlach  set DefaultAccount=goerlach
+sacctmgr modify user where name=peruginig  set DefaultAccount=peruginig
+sacctmgr modify user where name=pratom  set DefaultAccount=pratom
+sacctmgr modify user where name=lucchinial  set DefaultAccount=lucchinial
+sacctmgr modify user where name=misani  set DefaultAccount=misani
+sacctmgr modify user where name=venzinm  set DefaultAccount=venzinm
+sacctmgr modify user where name=achillib  set DefaultAccount=achillib
+sacctmgr modify user where name=dalbarco  set DefaultAccount=dalbarco
+sacctmgr modify user where name=garnier  set DefaultAccount=garnier
+sacctmgr modify user where name=bologni  set DefaultAccount=bologni
+sacctmgr modify user where name=unwith  set DefaultAccount=unwith
+sacctmgr modify user where name=schwantje  set DefaultAccount=schwantje
+sacctmgr modify user where name=elass  set DefaultAccount=elass
+sacctmgr modify user where name=3129843  set DefaultAccount=3129843
+sacctmgr modify user where name=buendia  set DefaultAccount=buendia
+
